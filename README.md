@@ -9,6 +9,6 @@ NumPy
 scikit-learn
 
 ## Installing
-Clone this repository to your local machine using https://github.com/EntimemaInsight/Train-Test-Split-Example-Python
-Ensure that you have all the prerequisites installed (see above).
-Run train_test_split.ipynb in a Jupyter notebook.
+1. Clone this repository to your local machine using https://github.com/EntimemaInsight/Train-Test-Split-Example-Python
+2. Ensure that you have all the prerequisites installed (see above).
+3. Run train_test_split.ipynb in a Jupyter notebook.
