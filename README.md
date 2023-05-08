@@ -20,5 +20,7 @@ To run the script, open the Jupyter notebook in your local machine and execute t
 ## Conclusion
 The train test split is a crucial technique in machine learning for evaluating the performance of a model on new and unseen data. By splitting the data into training and testing sets, we can assess the model's ability to generalize to new data. The train_test_split() function in the scikit-learn library makes it easy to split data in Python and is a valuable tool for machine learning practitioners.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Credits
+
+This project was created by Aleksandar Dimitrov and is licensed under the MIT License. 
+If you have any questions or comments, feel free to contact me at alexi.zein@gmail.com.
